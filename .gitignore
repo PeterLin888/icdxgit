@@ -1,0 +1,12 @@
+# sfdx
+.sfdx
+
+# Illuminated Cloud / IntelliJ
+IlluminatedCloud/
+.idea/shelf/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/tasks.xml
+.idea/workspace.xml
+*.iws
