@@ -1,0 +1,15 @@
+= Setting doc for Illuminated Cloud, Salesforce DX and Git, etc.
+
+Illuminated Cloud, Salesforce DX and Git
+
+== Illuminated Cloud
+
+Illuminated Cloud
+
+== Salesforce DX
+
+Salesforce DX
+
+== Git
+
+Git
